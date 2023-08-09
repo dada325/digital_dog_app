@@ -28,7 +28,7 @@ st.title("Your Cosmo Doggie")
 
 # Display the dog avatar
 dog_avatar = "assets/path_to_dog_avatar.png"  # Replace with your path
-st.image(dog_avatar, caption="Meet Rover, your digital dog!")
+st.image(dog_avatar, caption="Meet Rover, your new Friend!!")
 
 # Assuming you have some mechanism to identify users
 user_id = "unique_user_identifier"  # Replace with your user identification mechanism
